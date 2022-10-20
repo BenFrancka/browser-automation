@@ -1,0 +1,1 @@
+All code written in this repo is for interacting with the DOM for [todomvc.com](https://todomvc.com/examples/vanillajs/)
